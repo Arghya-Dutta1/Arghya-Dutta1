@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arghya-dutta1" alt="arghya-dutta1" /></a> </p>
 
-- 🔭 I’m currently working on [Tic Tac Toe](https://github.com/Arghya-Dutta1/Tic-Tac-Toe)
+- 🔭 I’m currently working on [Expense Tracker](https://github.com/Arghya-Dutta1/Expense-Tracker)
 
 - 🌱 I’m currently learning **MERN Stack**
 
