@@ -25,6 +25,8 @@
   <img src="https://gfgstatscard.vercel.app/arghyadurwum" alt="GFG stats" />
 </a>
 
+![CodeChef Stats](https://codechef-readme-stats.onrender.com/joy2022?v=1)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arghya-dutta-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arghya-dutta-" height="30" width="40" /></a>
