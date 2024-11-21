@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arghya-dutta1" alt="arghya-dutta1" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghya-dutta1&show_icons=true&theme=transparent&locale=en&layout=donut-vertical" alt="arghya-dutta1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghya-dutta1&show_icons=true&theme=dracula&locale=en&layout=donut-vertical" alt="arghya-dutta1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arghya-dutta1&show_icons=true&theme=transparent&locale=en" alt="arghya-dutta1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arghya-dutta1&show_icons=true&theme=dracula&locale=en" alt="arghya-dutta1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arghya-dutta1&theme=transparent" alt="arghya-dutta1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arghya-dutta1&theme=dracula" alt="arghya-dutta1" /></p>
 
 <h3 align="left">About Me:</h3>
 
