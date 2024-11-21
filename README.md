@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arghya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arghya-dutta1&theme=tokyonight" alt="arghya-dutta1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arghya-dutta1&theme=algolia" alt="arghya-dutta1" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghya-dutta1&show_icons=true&theme=tokyonight&locale=en&layout=donut-vertical" alt="arghya-dutta1" /></p>
 
