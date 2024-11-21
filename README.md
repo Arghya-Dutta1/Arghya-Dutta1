@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghya-dutta1&label=Profile%20views&color=0e75b6&style=flat" alt="arghya-dutta1" /> </p>
 <h1 align="center">Hi 👋, I'm Arghya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and competitive programmer from India</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arghya-dutta1&theme=algolia&column=5&rank=-?" alt="arghya-dutta1" /></a> </p>
 
@@ -17,6 +17,10 @@
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **arghyadutta2002@gmail.com**
+
+<h3 align="left">Coding Profiles Stats:</h3>
+
+<p> <img src="https://leetcard.jacoblin.cool/arghyadutta2002?ext=contest" alt="arghya-dutta1"> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
