@@ -20,7 +20,7 @@
 
 <h3 align="left">Coding Profiles Stats:</h3>
 
-<p> <img src="https://leetcard.jacoblin.cool/arghyadutta2002?ext=contest,heatmap" alt="arghya-dutta1"> </p>
+<p> <img src="https://leetcard.jacoblin.cool/arghyadutta2002?ext=contest" alt="arghya-dutta1"> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
