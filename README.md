@@ -25,7 +25,6 @@
   <img src="https://gfgstatscard.vercel.app/arghyadurwum" alt="GFG stats" />
 </a>
 
-![CodeChef Stats](https://codechef-readme-stats.onrender.com/joy2022?v=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
