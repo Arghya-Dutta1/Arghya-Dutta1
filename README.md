@@ -25,6 +25,8 @@
   <img src="https://gfgstatscard.vercel.app/arghyadurwum" alt="GFG stats" />
 </a>
 
+<h3 align="left">GitHub Contributions:</h3>
+![snake gif](https://github.com/Arghya-Dutta1/Arghya-Dutta1/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
