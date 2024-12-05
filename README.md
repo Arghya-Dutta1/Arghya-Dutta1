@@ -26,6 +26,7 @@
 </a>
 
 <h3 align="left">GitHub Contributions:</h3>
+<img src="https://github.com/Arghya-Dutta1/Arghya-Dutta1/blob/output/github-contribution-grid-snake.svg" alt="snake svg" />
 ![snake gif](https://github.com/Arghya-Dutta1/Arghya-Dutta1/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="left">Connect with me:</h3>
