@@ -12,7 +12,7 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on [File Organizer](https://github.com/Arghya-Dutta1/File-Organizer)
+- 🔭 I’m currently working on [File Organizer](https://github.com/Arghya-Dutta1/File-Organizer) and other projects (coming soon).
 
 - 🌱 I’m currently learning **Core JAVA**
 
