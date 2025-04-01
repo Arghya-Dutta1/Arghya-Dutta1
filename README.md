@@ -23,7 +23,7 @@
 <p> <img align="left" src="https://leetcard.jacoblin.cool/arghyadutta2002?ext=contest&theme=unicorn" alt="arghya-dutta1"> </p>
 <p> <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=Arghya_D&theme=tokyonight" alt="arghya_d"> </p>
 <a href="https://www.geeksforgeeks.org/user/arghyadurwum/">
-  <img src="https://gfgstatscard.vercel.app/arghyadurwum" alt="GFG stats" />
+  <img align="center" src="https://gfgstatscard.vercel.app/arghyadurwum" alt="GFG stats" />
 </a>
 
 <h3 align="left">GitHub Contributions:</h3>
