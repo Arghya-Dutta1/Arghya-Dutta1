@@ -20,7 +20,7 @@
 
 <h3 align="left">Coding Profiles Stats:</h3>
 
-<p> <img align="left" src="https://leetcard.jacoblin.cool/arghyadutta2002?ext=contest" alt="arghya-dutta1" width="360px"> </p>
+<p> <img align="left" src="https://leetcard.jacoblin.cool/arghyadutta2002?ext=contest" alt="arghya-dutta1" width="370px"> </p>
 <p> <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=Arghya_D&theme=tokyonight" alt="arghya_d"> </p>
 <a href="https://www.geeksforgeeks.org/user/arghyadurwum/">
   <img align="center" src="https://gfgstatscard.vercel.app/arghyadurwum" alt="GFG stats" />
