@@ -21,7 +21,7 @@
 <h3 align="left">Coding Profiles Stats:</h3>
 
 <p> <img src="https://leetcard.jacoblin.cool/arghyadutta2002?ext=contest&theme=unicorn" alt="arghya-dutta1"> </p>
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Arghya_D&theme=tokyonight)
+<p> <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Arghya_D&theme=tokyonight" alt="arghya_d"> </p>
 <a href="https://www.geeksforgeeks.org/user/arghyadurwum/">
   <img src="https://gfgstatscard.vercel.app/arghyadurwum" alt="GFG stats" />
 </a>
