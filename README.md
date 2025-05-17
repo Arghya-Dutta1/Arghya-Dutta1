@@ -12,9 +12,9 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/Arghya-Dutta1/Expense-Tracker) and other projects (coming soon).
+- 🔭 I’m currently working on [URL Shortener](https://github.com/Arghya-Dutta1/URL-Shortener) and other projects (coming soon).
 
-- 🌱 I’m currently learning **Core JAVA**
+- 🌱 I’m currently learning **Back-End and DevOps**
 
 - 📫 How to reach me **arghyadutta2002@gmail.com**
 
