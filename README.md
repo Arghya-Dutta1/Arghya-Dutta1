@@ -12,11 +12,11 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I’m currently working on [URL Shortener](https://github.com/Arghya-Dutta1/URL-Shortener) and other projects (coming soon).
+- 🔭 I’m currently working on [Markdown Blog](https://github.com/Arghya-Dutta1/Markdown-Blog) and other projects (coming soon).
 
 - 🌱 I’m currently learning **Back-End and DevOps**
 
-- 📫 How to reach me **arghyadutta2002@gmail.com**
+- 📫 How to reach me **[arghyadutta2002@gmail.com](mailto:arghyadutta2002@gmail.com)**
 
 <h3 align="left">Coding Profiles Stats:</h3>
 
